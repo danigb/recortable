@@ -1,10 +1,13 @@
 source 'http://rubygems.org'
 
 gem 'rails', '3.0.3'
+gem 'inherited_resources'
+gem 'fog'
 gem 'carrierwave'
 gem 'formtastic'
 gem 'activo-rails'
 gem 'attrtastic'
+
 
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
