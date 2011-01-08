@@ -7,6 +7,7 @@ gem 'carrierwave'
 gem 'formtastic'
 gem 'activo-rails'
 gem 'attrtastic'
+gem 'omniauth'
 
 
 # Bundle edge Rails instead:
