@@ -5,8 +5,8 @@ gem 'inherited_resources'
 gem 'fog'
 gem 'carrierwave'
 gem 'formtastic'
-gem 'activo-rails'
-gem 'attrtastic'
+#gem 'activo-rails'
+#gem 'attrtastic'
 gem 'omniauth'
 
 
