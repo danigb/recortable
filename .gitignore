@@ -1,0 +1,11 @@
+nbproject
+.bundle
+db/*.sqlite3
+log/*.log
+tmp/**/*
+public/index.html
+config/git.yml
+config/database.yml
+config/amazon_s3.yml
+
+
